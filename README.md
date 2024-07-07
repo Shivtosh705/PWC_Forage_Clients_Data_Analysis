@@ -1,5 +1,6 @@
 # PWC_Forage_Clients_Data_Analysis
 Hello I have completed the Virtual Internship Project by PWC. Here is a brief overview of my work in Power BI.
+
 Task 1 - Call Centre Trends - Visualising customer and agent behaviour.
 ![Screenshot 2024-07-07 195005](https://github.com/Shivtosh705/PWC_Forage_Clients_Data_Analysis/assets/117893149/90955424-abf7-469d-bb81-430d099d2614)
 
