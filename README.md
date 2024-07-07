@@ -1,3 +1,10 @@
 # PWC_Forage_Clients_Data_Analysis
 
-![Screenshot 2024-07-07 122542](https://github.com/Shivtosh705/PWC_Forage_Clients_Data_Analysis/assets/117893149/2b7f964b-5689-4d12-a578-25358f8f4cfa)
+-- Completed a job simulation where I strengthened my Power BI skills to better understand clients and their data visualisation needs.
+-
+-- Demonstrated expertise in data visualization through the creation of Power BI dashboard that effectively conveyed KPIs,showcasing the ability to respond to client requests with well-designed solutions.
+-
+-- Strong communication skills reflected in the concise and informative email communication with engagement partners,delivering valuable insights and actionable suggestions based on data analysis.
+-
+-- Leveraged analytical problem-solving skills to examine HR data,particularly focusing on gender-related KPIs and identified root causes for gender balance issues at the executive management level,highlighting a commitment to data-driven decision-making.
+-
